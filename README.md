@@ -1,6 +1,8 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/yoongyeomp/yoongyeomp/blob/main/assets/title.gif" />
+  <h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=000000&random=false&width=460&height=70&lines=Welcom+to+My+Github" alt="Typing SVG">
+  </h2>
 </div>
 
 <!--내용 부분-->
