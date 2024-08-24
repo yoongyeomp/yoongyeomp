@@ -71,7 +71,7 @@
   <a href="https://blog.naver.com/koding3882">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:oka1313@gmail.com">
+  <a href="mailto:dbsruaqls123@gmail.com">
     <img
       src="https://img.shields.io/badge/dbsruaqls123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
